@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+openpyxl
+flask
+azure-functions
+python-dotenv
